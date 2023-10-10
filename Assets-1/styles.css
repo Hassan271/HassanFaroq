@@ -1317,15 +1317,15 @@ p {
 ! Section: Resume
 ========================================================== */
 .resume-box {
-  margin-bottom: 15px;
-  padding: 20px;
+  margin-bottom: 40px;
+  padding: 10px;
   border: 1px solid #031634;
   border-radius: 6px;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   position: relative;
   text-align: center;
-  padding-top: 40px;
+  padding-top: 30px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
